@@ -30,3 +30,7 @@ Airport operations need reliable energy consumption forecasts to negotiate procu
 ## Tech Stack
 
 R (forecast package: auto.arima, Box-Cox), time series analysis, Jupyter
+
+---
+
+_Part of my portfolio: [haiiibin.github.io](https://haiiibin.github.io)_
