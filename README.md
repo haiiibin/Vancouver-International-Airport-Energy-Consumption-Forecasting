@@ -1,5 +1,7 @@
 # Vancouver International Airport (YVR) Energy Consumption Forecasting
 
+> **Live analysis:** https://haiiibin.github.io/Vancouver-International-Airport-Energy-Consumption-Forecasting/analysis/yvr_forecasting_analysis.html
+
 Time series forecasting of monthly energy consumption at Vancouver International Airport, built to support budget planning and energy procurement decisions.
 
 ![Forecast results](images/yvr_forecast.png)
